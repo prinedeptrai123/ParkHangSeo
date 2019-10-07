@@ -59,7 +59,7 @@
     "nodemailer": "4.0.1",
     "pdfkit": "0.8.3",
     "pdfmake": "0.1.36",
-    "pg": "7.0.1",
+    "pg": "7.0.2",
     "pg-format": "1.0.4",
     "pg-transaction": "1.0.4",
     "pnotify": "3.2.0",
